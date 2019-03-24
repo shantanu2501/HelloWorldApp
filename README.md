@@ -1,4 +1,4 @@
-# .net Hello World App
+# .Net Hello World App
 Console application for hello world(.net)
  ---------------------------------
  Just open your .net console application and add ->
